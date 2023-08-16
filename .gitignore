@@ -1,0 +1,6 @@
+# Salesforce cache
+.sfdx/
+
+# Node
+/package-lock.json
+node_modules/

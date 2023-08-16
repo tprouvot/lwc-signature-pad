@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata" fqn="signaturePad">
-    <apiVersion>45.0</apiVersion>
-    <isExposed>false</isExposed>
+    <apiVersion>58.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>Signature Pad</masterLabel>
+    <description>Display a signature pad</description>
 </LightningComponentBundle>
